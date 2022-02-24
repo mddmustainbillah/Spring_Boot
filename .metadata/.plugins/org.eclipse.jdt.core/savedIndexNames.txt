@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Titan Tech-2\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2380175872.index
+1865797976.index
+4060793308.index
